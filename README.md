@@ -85,4 +85,3 @@ El estudiante con la nota más alta es: jesus (18.0)
 
 ## 👤 Autor  
 Jhorman Jesús Castellanos Morales  
-```
