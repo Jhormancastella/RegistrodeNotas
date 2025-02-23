@@ -69,6 +69,7 @@ public class registrodenotasconmap {
         // Encontrar la nota más alta y el estudiante con mejor rendimiento.
 
         String mejorEstudiante = null;
+        
         double mejorNota = Double.NEGATIVE_INFINITY;
 
         for (Map.Entry<String, Double> entry : registroNotas.entrySet()) {

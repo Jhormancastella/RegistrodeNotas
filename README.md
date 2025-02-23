@@ -17,18 +17,18 @@ El proyecto utiliza conceptos básicos de programación en Java, como coleccione
 
 ### Clonar Repositorio  
 ```bash  
-git clone https://github.com/Jhormancastella/Gestion-de-Estudiantes-con-List.git  
+git clone https://github.com/Jhormancastella/RegistrodeNotas.git
 ```  
 
 ### Compilar y Ejecutar  
 1. Abre una terminal en la carpeta del proyecto.  
 2. Compila el archivo Java:  
    ```bash  
-   javac RegistroNotas.java  
+   javac Rregistrodenotasconmap.java  
    ```  
 3. Ejecuta el programa:  
    ```bash  
-   java RegistroNotas  
+   java registrodenotasconmap  
    ```  
 
 ---
